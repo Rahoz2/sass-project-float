@@ -43,6 +43,10 @@
       padding-bottom: 3rem;
     }
   }
+
+  @include respond(phone) {
+    padding: 15rem 0 0;
+  }
 }
 
 .section-stories {
