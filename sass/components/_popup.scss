@@ -99,11 +99,6 @@
     font-size: 1.4rem;
     margin-bottom: 4rem;
 
-    &::selection {
-      background-color: $color-primary;
-      color: $color-white;
-    }
-
     -moz-column-count: 2;
     -moz-column-gap: 4rem;
     -moz-column-rule: 1px solid $color-grey-light-2;
